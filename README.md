@@ -1,7 +1,7 @@
 # Blinkit Sales Data Analysis 📊
 
 ## dsashboard overview
-![Banner](blinkit-sales-dashboard)
+![Banner](blinkit-sales-dashboards.png)
 
 ## Overview
 This project analyzes sales data from **Blinkit – India’s Last Minute Delivery App** using Power BI.  
